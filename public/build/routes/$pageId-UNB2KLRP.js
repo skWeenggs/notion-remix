@@ -1,0 +1,1 @@
+import{a,b as e}from"/build/_shared/chunk-G7S42RI5.js";import"/build/_shared/chunk-4ND4ABE4.js";import{e as t,f as o,m as r}from"/build/_shared/chunk-QZ3WKT6U.js";o();o();function i(){let n=r();return t.createElement(e,{recordMap:n,rootPageId:a.rootNotionPageId})}export{i as default};
